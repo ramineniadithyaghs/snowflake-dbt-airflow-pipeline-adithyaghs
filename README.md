@@ -55,7 +55,7 @@ Clear documentation and lineage
 
 🛠️ Tech Stack
 ComponentTechnologyPurposeData WarehouseSnowflakeStorage and computeTransformationdbt (Data Build Tool)SQL-based transformationsOrchestrationApache AirflowWorkflow automationLanguagePython 3.9+Scripting and automationVersion ControlGit/GitHubCode management
-
+```
 📁 Project Structure
 snowflake-dbt-airflow-pipeline/
 │
@@ -74,16 +74,16 @@ snowflake-dbt-airflow-pipeline/
 │   └── DataFlowDiagram.png
 │
 └── README.md              # This file
-
+```
 🚀 Getting Started
 Prerequisites
-
+```
 Snowflake Account (free trial available)
 Python 3.9+
 dbt-snowflake (pip install dbt-snowflake)
 Apache Airflow 2.0+
 Git
-
+```
 Installation
 
 Clone the repository
