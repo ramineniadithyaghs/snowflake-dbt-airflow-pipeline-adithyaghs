@@ -201,22 +201,11 @@ Financial Reporting - Transaction data transformation
 Supply Chain - Inventory and logistics tracking
 Marketing Analytics - Campaign performance measurement
 
-🎓 What I Learned
-Building this project taught me:
-✅ Modern data stack best practices (Snowflake + dbt + Airflow)
-✅ Incremental model design for performance
-✅ Data testing and validation strategies
-✅ Workflow orchestration and error handling
-✅ Documentation and maintainability principles
+
 
 🔮 Future Enhancements
-Planned improvements
- Add dbt docs generation (dbt docs generate)
- Implement incremental models for large datasets
- Add data quality monitoring with Great Expectations
- CI/CD pipeline with GitHub Actions
- Snowflake cost optimization (clustering, materialization)
- Integration with BI tools (Tableau/Power BI)
+ Add CI/CD pipeline with GitHub Actions
+ Integrate with BI tools (Tableau/Power BI)
  
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details
@@ -224,7 +213,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Adithya Ramineni
 LinkedIn: linkedin.com/in/adithyaramineni
 Email: adithyachowdaryr@gmail.com
-Portfolio: More projects on GitHub
 🙏 Acknowledgments
 Snowflake for the TPCH sample database
 dbt Labs for excellent documentation
